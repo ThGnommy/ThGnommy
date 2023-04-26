@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thgnommy.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=thgnommy.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors) -->
 
 ## Hello there 👋 I'm [Thomas](https://thomasbrandoli.dev/) 🤓
 
