@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 ## Hello there 👋 I'm [Thomas](https://thomasbrandoli.dev/) 🤓
 
 ### 👇 Quick facts about me
-- 🖥️ I'm mostly a Front End Developer.
-- 🌱 I'm currently learning React Native, and learning more about Typescript.
+- 🌱 I'm currently learning C++, Lua, and Unreal Engine 5.
+- 🖥️ I worked as a Front End Developer with React and React Native.
 - 👀 My curiosity often takes me to discover new technologies.
 - 🌎 I love to make a positive impact with my code, helping develop a better world.
-- 👾 I'm also a hobbyist game programmer, learning Godot and Raylib in my free time.
-
+- 👾 I'm also a hobbyist game programmer, learning Godot in my free time.
+<!--
 ## Tech Stack
 
 <img align="left" style="margin-right:5px" width="40px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" />
@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 
 ## Tech I'm interested in
 
-<img align="left" style="margin-right:5px" width="40px" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cplusplus" />
-
 <img align="left" style="margin-right:5px" width="40px" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="swift" />
 
-<img align="left" style="margin-right:5px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="swift" />
+<img align="left" style="margin-right:5px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" alt="threejs" />
 
-<br /><br />
+-->
+
+<br />
 
 ## Github Stats
 ![ThGnommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=thgnommy&theme=dark&show_icons=true)
