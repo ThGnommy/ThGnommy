@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning C++, Lua, and Unreal Engine 5.
 - 🖥️ I worked as a Front End Developer with React and React Native.
 - 👀 My curiosity often takes me to discover new technologies.
-- 🌎 I love to make a positive impact with my code, helping develop a better world.
+- 🌎 I love to make a positive impact with my code.
 - 👾 I'm also a hobbyist game programmer, learning Godot in my free time.
 <!--
 ## Tech Stack
