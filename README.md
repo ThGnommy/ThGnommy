@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 ## Hello there 👋 I'm [Thomas](https://thomasbrandoli.dev/) 🤓
 
 ### 👇 Quick facts about me
-- 🌱 I'm currently learning C++, Lua, and Unreal Engine 5.
-- 🖥️ I worked as a Front End Developer with React and React Native.
+- 🌱 I'm working in C++, and Unreal Engine 5.
 - 👀 My curiosity often takes me to discover new technologies.
 - 🌎 I love to make a positive impact with my code.
 - 👾 I'm also a hobbyist game programmer, learning Godot in my free time.
